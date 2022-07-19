@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "713762270229",
+    "project_id": "ramlug-todo",
+    "storage_bucket": "ramlug-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713762270229:android:d755446010e23ba172f21c",
+        "android_client_info": {
+          "package_name": "com.ramlug.todo_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713762270229-o0a6obged9f3idgfqgkposmed0iddq8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ramlug.todo_list",
+            "certificate_hash": "ca129beae09d689fb9e0eb0be4cedaf876243d35"
+          }
+        },
+        {
+          "client_id": "713762270229-jmhvptbhmgp9cvtft256f6qev5ee0j9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU-8uQZcnA_s83bNbw9RuGfSEDBlhrvws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713762270229-jmhvptbhmgp9cvtft256f6qev5ee0j9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
